@@ -13,8 +13,8 @@
 	},
 	"dependencies" : {
 		"@types/node": "latest",
-		"modbus-pdu" : "^1.13.0",
-		"serialport" : ">=1.7.1 <7"
+		"modbus-pdu" : "^1.13.1",
+		"serialport" : ">=6"
 	},
 	"devDependencies" : {
 		"dtslint"   : "^0.4.2",
